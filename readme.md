@@ -4,6 +4,6 @@ This project is to test integrating [Slack](https://slack.com) with [Cake](http:
 
 ## Todo
 
-- [] Add variable for Attachment Color
-- [] Add code to enable / disable Slack messages.
-- [] Add global varible for MessageText.
+- [ ] Add variable for Attachment Color
+- [ ] Add code to enable / disable Slack messages.
+- [ ] Add global varible for MessageText.
